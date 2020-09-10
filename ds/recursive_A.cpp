@@ -52,8 +52,8 @@ double getAverage2(Node* head, int sz)
 }
 
 int main(){
-    int A[10] {4,3,2,1,7,6,5,9,8,0};
-    Node *head = new Node;
-    createNodeList(A, 10, head);
-    cout << getAverage2(head, 10) << endl;
+    // int A[10] {4,3,2,1,7,6,5,9,8,0};
+    // Node *head = new Node;
+    // createNodeList(A, 10, head);
+    // cout << getAverage2(head, 10) << endl;
 }
