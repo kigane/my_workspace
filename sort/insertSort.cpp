@@ -7,7 +7,7 @@ void insertSort(int arr[], int n)
     for (int i = 1; i < n; i++)
     {
         int temp = arr[i], j;
-        for (j = i; temp < arr[j-1]; j--)
+        for (j = i; j >= 0 && temp < arr[j-1]; j--)
         {
             arr[j] = arr[j - 1];
         }
