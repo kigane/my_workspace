@@ -1,0 +1,6 @@
+Number,name,type,cost,attack,defense,abilities,playerHP,enemyHP,cardDraw,descriptions
+1,SB,creature,1,999,999,------,1,0,0,Summon: You gain 999 health.
+2,SB,creature,1,999,999,------,1,0,0,Summon: You gain 999 health.
+24,SB,creature,1,999,999,------,1,0,0,Summon: You gain 999 health.
+25,SB,creature,1,999,999,------,1,0,0,Summon: You gain 999 health.
+26,SB,creature,1,999,999,------,1,0,0,Summon: You gain 999 health.
